@@ -1,0 +1,59 @@
+
+Unit_no	Title_name	Subdivision	Date_planned	Hours	Date_complition	Methodolagy	Learning_outcome
+1	Introduction to Cloud computing  					PPt & Black Board	Understand the Benefits,Limitations and Charecteristics of Cloud computing
+		Evolution of cloud, Essentials 	2018-12-09	1	2018-12-09		
+		Cloud Computing definition, Benefits and Challenges	2018-12-11	2	2018-12-11		
+		Limitations, Usage and Applications	2018-12-10	1	2018-12-10		
+		Business Models around Cloud Computing	2018-12-12	1	2018-12-12		
+		Evolution of cloud, Essentials	2018-12-13	1	2018-12-13		
+		Characteristics, Cloud Adoption	2018-12-14	1	2018-12-14		
+2	Cloud models					PPt &amp; Black Board	Undersatnd different Cloud models
+		Introduction, Collaboration to cloud	2018-12-17	1	2018-12-17		
+		Cloud Models- Public, Private and Hybrid Cloud models	2018-12-18	1	2018-12-18		
+		Cloud Models- Community Cloud, Comparison of cloud models	2018-12-19	1	2018-12-19		
+		Cloud Application Architecture- Grid computing	2018-12-20	1	2018-12-20		
+		Cloud  Application Architecture - Transactional computing	2018-12-21	1	2018-12-21		
+		Cloud Computing Architecture- Front end, Back end and Advantages	2018-12-24	1	2018-12-24		
+		Cloud Infrastructure Models	2018-12-25	1	2018-12-25		
+		Scaling a cloud infrastructure - Capacity planning	2018-12-27	1	2018-12-27		
+		Scaling a cloud infrastructure - Cloud scale	2018-12-28	1	2018-12-28		
+3	Cloud services 	&nbsp;				PPt &amp; Black Board	                         Able to understand and appreciate the different Cloud services
+		Introduction to Services	2018-12-31	1	2018-12-31		
+		Storage as a Service	2019-01-01	1	2019-01-01		
+		Database as a Service	2019-01-02	1	2019-01-02		
+		Information as Service, Process as a Service	2019-01-03	1	2019-01-03		
+		Application as a Service	2019-01-04	1	2019-01-04		
+		Management/Governance as Service	2019-01-07	1	2019-01-07		
+		"Platform as a Service "	2019-01-08	1	2019-01-08		
+		Security as a Service,Testing as Service	2019-01-09	1	2019-01-09		
+		Integration as Service	2019-01-10	1	2019-01-10		
+		Infrastructure as Service	2019-01-11	1	2019-01-11		
+4	Software plus Services 					PPt &amp; Black Board	Undersatnd how S/W plus services may help in an organizations
+		Introduction to  Software plus Services	2019-01-14	1	2019-01-14		
+		 Mobile Device Integration	2019-01-15	1	2019-01-15		
+		Providers	2019-01-16	1	2019-01-16		
+		Microsoft Online Intuit Quick base	2019-01-17	1	2019-01-17		
+		Cast Iron Cloud	2019-01-18	1	2019-01-18		
+		Bungee Connect	2019-01-21	1	2019-01-21		
+		Introduction to Map Reduce	2019-01-22	1	2019-01-22		
+		Goggle File System	2019-01-23	1	2019-01-23		
+		Hadoop framework	2019-01-24	1	2019-01-24		
+		Hadoop Distributed File System	2019-01-25	1	2019-01-25		
+5	Virtualization for cloud	&nbsp;				PPt &amp; Black Board	Understand virtualization concept and architecture
+		Introduction to virtualization 	2019-01-28	1	2019-01-28		
+		Pros and Cons of Virtualization	2019-01-29	1	2019-01-29		
+		Virtualization Architecture	2019-01-30	1	2019-01-30		
+		Virtualization Machine	2019-01-31	1	2019-01-31		
+		Virtualization in Clusters/Grid Context,	2019-02-01	1	2019-02-01		
+		Virtual Network	2019-02-04	1	2019-02-04		
+		Types of Virtualization 	2019-02-05	1	2019-02-05		
+		Virtual Machine Monitor, Virtual Desktop Infrastructure	2019-02-06	1	2019-02-06		
+6	Examples of Cloud Computing	&nbsp;				PPt &amp; Black Board	Study Aneka and Comet Cloud
+		Introduction, Types of clouds 	2019-02-07	1	2019-02-07		
+		Cloud Comparing Approaches	2019-02-08	1	2019-02-08		
+		Aneka Integration of private and public cloud, Aneka Cloud Platform	2019-02-11	1	2019-02-11		
+		Resource Provisioning Service	2019-02-12	1	2019-02-12		
+		Aneka Hybrid Cloud Implementation	2019-02-13	1	2019-02-13		
+		Comet Cloud Architecture	2019-02-14	1	2019-02-14		
+		Autonomic Behaviour,Comet Cloud	2019-02-15	1	2019-02-15		
+		Overview of Comet Cloud Based Applications, Implementation	2019-02-18	1	2019-02-18		
